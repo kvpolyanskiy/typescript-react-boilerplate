@@ -1,0 +1,8 @@
+{
+  "*.{tsx,ts,jsx,js}": [
+    "yarn lint:scripts --fix",
+  ],
+  "*.css": [
+    "yarn lint:styles --fix",
+  ]
+}
